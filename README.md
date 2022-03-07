@@ -3,7 +3,7 @@
   <p align="center">Olá! Tudo bem? 😃️</p>
   <p align="center">Meu nome é <a href="https://www.linkedin.com/in/davi-alves-2a3030211"><i>Davi Alves</i></a> e eu estudo Desenvolvimento Web na <a href="https://www.betrybe.com/"><i>Trybe</i></a>
    <br>
-   Atualmente sou desenvolvedor frontEnd e a caminho de ser full Stack 😃️</p>
+   Atualmente sou Desenvolvedor Full Stack</p>
 
 
 <!-- <h1 align="center"> 

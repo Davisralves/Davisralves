@@ -1,16 +1,7 @@
 
 <div>
   <p align="center">Olá! Tudo bem? 😃️</p>
-  <p align="center">Meu nome é <a href="https://www.linkedin.com/in/davi-alves-2a3030211"><i>Davi Alves</i></a> e eu estudo Desenvolvimento Web na <a href="https://www.betrybe.com/"><i>Trybe</i></a>
-   <br>
-   Atualmente sou Desenvolvedor Full Stack</p>
-
-
-<!-- <h1 align="center"> 
-  Trybe
-</h1>
-
-<p align="center"><i>"A Trybe é uma escola do futuro para qualquer pessoa que deseja construir uma carreira de sucesso em tecnologia. Como estudante a pessoa ainda tem a opção de pagar os estudos apenas quando estiver formada e com um bom trabalho."</i></p> -->
+  <p align="center">Meu nome é <a href="https://www.linkedin.com/in/davi-alves-2a3030211"><i>Davi Alves</i></a> e sou chatbot developer na <a href=""><i>Take Blip</i></a>
 
 <div align="center">
   <a href="https://github.com/Davisralves">

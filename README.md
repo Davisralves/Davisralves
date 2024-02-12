@@ -1,7 +1,7 @@
 
 <div>
   <p align="center">Olá! Tudo bem? 😃️</p>
-  <p align="center">Meu nome é <a href="https://www.linkedin.com/in/davi-alves-2a3030211"><i>Davi Alves</i></a> e sou chatbot developer na <a href=""><i>Take Blip</i></a>
+  <p align="center">Meu nome é <a href="https://www.linkedin.com/in/davi-alves-2a3030211"><i>Davi Alves</i></a> e sou Software Engineer na <a href=""><i>Blip</i></a>
 
 <div align="center">
   <a href="https://github.com/Davisralves">

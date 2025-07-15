@@ -1,7 +1,7 @@
 
 <div>
-  <p align="center">Olá! Tudo bem? 😃️</p>
-  <p align="center">Meu nome é <a href="https://www.linkedin.com/in/davi-alves-2a3030211"><i>Davi Alves</i></a> e sou Software Engineer na <a href=""><i>Blip</i></a>
+  <p align="center">Hello 😃️</p>
+  <p align="center">My name is<a href="https://www.linkedin.com/in/davi-alves-developer/"><i>Davi Alves</i></a>, I'm full stack developer working with React and Asp.net.
 
 <div align="center">
   <a href="https://github.com/Davisralves">
@@ -27,13 +27,3 @@
   <img align="center" alt="docker" height="30" width="40" src="https://img.icons8.com/fluency/48/000000/docker.svg">
   <img align="center" alt="mysql" height="30" width="40" src="https://img.icons8.com/ios/50/000000/mysql.png">
 </div><br>
-
-<div align="center">
-  <a href="https://www.instagram.com/daviasouto/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/davi-alves-desenvolvedor" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:davialves324@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-
-<div align="center">
-  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
-</div>

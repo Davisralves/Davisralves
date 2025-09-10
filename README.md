@@ -60,7 +60,7 @@ const achievements = {
 ## 📊 GitHub Stats
 
 ![Davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=davisralves&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davisralves&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davisralves&layout=compact&theme=dark&hide_border=true&hide=python,cython)
 
 ## 🎓 Certifications
 

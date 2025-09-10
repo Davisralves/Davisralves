@@ -1,6 +1,6 @@
 # Hi there, I'm Davi Alves 👋
 
-**Full-Stack Software Engineer** | **React & .NET Specialist** | **Product Builder**
+**Full-Stack Software Engineer** | **React & .NET Specialist**
 
 🚀 Passionate about creating scalable web applications that drive real business impact. Currently building innovative solutions at Blip, where I helped create a product that tripled team size and doubled company profits year-over-year.
 
